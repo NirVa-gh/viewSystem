@@ -28,5 +28,18 @@ public class ItemScriptableObject : ScriptableObject
     [Tooltip("Item prefab")]
     [SerializeField]
     public GameObject itemPrefab;
+    public List<AnotherComponent> anotherComponents;
 
 }
+    [System.Serializable]
+    public class AnotherComponent
+    {
+        [Tooltip("Item prefab")]
+        [SerializeField]
+        public GameObject itemPrefab;
+        [Tooltip("Item Description")]
+        [SerializeField]
+        public string itemDescription;
+    }
+
+

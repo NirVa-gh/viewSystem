@@ -352,6 +352,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"Z:/Unity/2022.3.21f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"Z:/Unity/2022.3.21f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/BottonMethods.cs"
 "Assets/CameraController.cs"
 "Assets/Clear.cs"
 "Assets/CloseApp.cs"
@@ -359,10 +360,12 @@
 "Assets/DescriptionPanel.cs"
 "Assets/DragPanel.cs"
 "Assets/DragSlot.cs"
+"Assets/Hoverable.cs"
 "Assets/Item.cs"
 "Assets/ItemScriptableObject.cs"
 "Assets/ListObjectPanel.cs"
 "Assets/MainArrayObjects.cs"
+"Assets/RotateButton.cs"
 "Assets/Slot.cs"
 "Assets/SpawnerObjects.cs"
 "Assets/Tween/EasingEquations.cs"
@@ -370,6 +373,7 @@
 "Assets/Tween/ITweenValue.cs"
 "Assets/Tween/TweenRunner.cs"
 "Assets/Tween/Vector3Tween.cs"
+"Assets/UIManager.cs"
 "Assets/UIWidget.cs"
 -langversion:9.0
 
